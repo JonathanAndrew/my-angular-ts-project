@@ -1,0 +1,19 @@
+{
+  "name": "my-angular-ts-project",
+  "version": "1.0.0",
+  "description": "Angular-TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanAndrew/my-angular-ts-project.git"
+  },
+  "author": "Jonathan Stevenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanAndrew/my-angular-ts-project/issues"
+  },
+  "homepage": "https://github.com/JonathanAndrew/my-angular-ts-project#readme"
+}
